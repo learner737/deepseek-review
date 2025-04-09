@@ -18,7 +18,7 @@ export const ECODE = {
   CONDITION_NOT_SATISFIED: 8,
 }
 
-export const GITHUB_API_BASE = 'https://api.github.com'
+export const GITHUB_API_BASE = 'https://github.xsky.com/api/v3'
 
 # If current host is Windows
 export def windows? [] {
